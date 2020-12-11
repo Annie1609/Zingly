@@ -2,10 +2,11 @@
 
 
 <h2>Link for the deployed project</h2>
+https://zingly.herokuapp.com/
 
 
 
-
+<p>     </p>
 <p>HOME PAGE is where it contains all the options for login, collections, Register and with a classic sidebar.
 If you are a new user then you need to register first, you should select a unique email and password, if a user with the same username or email id exist then your registration will fail and you have to register again with new credentials.</p>
 <p>Your email and password should be in valid format otherwise it'll give validation error message for the user.
